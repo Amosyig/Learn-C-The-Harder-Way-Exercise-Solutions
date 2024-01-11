@@ -1,2 +1,3 @@
 # Learn-C-The-Harder-Way-Exercise-Solutions
-Learn C The Harder Way excercise solutions. 
+
+I just took up C, and I'm using Learn C The Harder Way. These are my solutions to the exercises. 
